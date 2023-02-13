@@ -1,0 +1,14 @@
+[ignore]
+.*/test/.*
+.*/node_modules/@babel/helper-define-polyfill-provider/.*
+
+[include]
+.*/src/.*
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
